@@ -11,9 +11,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/baruch1515/count.svg?"  />
-</div>
 
 ###
 
